@@ -1,7 +1,7 @@
 #Geofeed file for AS20186
 #Updated on 06/01/24
 #Updated on 24/01/24 added post code to correct identification of Cognac and not Cognac-la-foret
-2001:67c:a38:5::/64,FR,FR-IDF,Paris,,
+2001:67c:a38:5::/64,FR,FR-IDF,Paris,,,
 2001:67c:a38::/56,FR,FR-NAQ,Cognac,16100,
 2001:67c:a38::0/49,FR,,,,
 2001:67c:a38:f093::/64,AF,,,,
